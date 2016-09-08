@@ -1,7 +1,9 @@
-Tracks 
+<!--- Tracks 2.5.0 --->
 
-IoT Technology Based
-PUSH notifications
-Cloud Messages Storage
-End to End Encryption Enhanced
+<B>Assets Tracking Application</B>
+
+IoT Technology Based</br>
+PUSH notifications</br>
+Cloud Messages Storage</br>
+End to End Encryption Enhanced</br>
 
